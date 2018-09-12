@@ -1,0 +1,18 @@
+mean = 996.61301612854
+mode = 996
+median = 996.0
+std = 9.167406746992153
+fraction of rejected pixels = 6.67572021484375e-05
+gain = 2.06
+read noise = 15.746250378382358 e-rms
+man read noise = 15.75 e-rms
+percent diff =  -0.023807121381852748
+Total Bias mean = 994.6683856964112
+Total Bias std = 6.003172702060524
+std decr. fac = 0.3451613015828955
+1/sqrt(N) = 0.31622776601683794
+
+NOTES:
+1. Looks sort of gaussian, tail longer on right
+2. read noise is consistent (15.75 e-rms)
+3. std decr. fac consistent

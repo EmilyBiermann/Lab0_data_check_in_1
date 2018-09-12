@@ -1,0 +1,38 @@
+DATA FOR -10degC:
+
+mean = 1005.4132452011108
+mode = 1000.0
+median = 1001.0
+std = 145.45648172275972
+Fraction of rejected pixels = 0.017313003540039062
+clip mean = 1001.6481756988884
+clip mode = 1000.0
+clip median = 1001.0
+clip std = 4.939096868391502
+Hot Cut = 1026.3436600408459
+Fraction of Hot Pixels = 0.017313003540039062
+darkcurrent/pixel/sec = 0.1664780701754384
+
+-------------------------------------------------------------------------------
+
+DATA FOR +10decC:
+
+mean = 1240.911591053009
+mode = 1211.0
+median = 1217.5
+std = 431.97046379432265
+Fraction of rejected pixels = 0.018251419067382812
+clip mean = 1221.7573355559052
+clip mode = 1211.0
+clip median = 1217.0
+clip std = 22.963945392457415
+Hot Cut = 1336.5770625181924
+darkcurrent/pixel/sec = 3.0194298245614037
+
+--------------------------------------------------------------------------------
+
+NOTES:
+1. Does not look gaussian
+2. Not gaussian, clear mode -> use mode
+   Poisson looking, use sqrt(mean) for sig
+4. Greater fraction of HOT pixels, darkcurrent/pixel/sec

@@ -1,0 +1,20 @@
+1. master flat saved as masterflat.fits
+
+2. Bright/dark regions only visible on small scales
+     (used "histogram equalization" as scale)
+
+   Dark region surf_bri   = 14981.405
+   Bright region surf_bri = 14991.371
+   fraction of light on dark = 0.999
+
+   Maybe because we took flats at -5degC instead of -10degC used for bias
+
+3. One dead pixel
+
+4. Take various regions with incr. distance from center,
+   Record position and brightness
+   
+
+5. "darker" side is now on opposite side,
+    cannot re-take flats unless you remember the camera orientation
+

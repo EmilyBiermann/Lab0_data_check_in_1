@@ -1,0 +1,19 @@
+mean = 1006.71826171875
+mode = 1006
+median = 1006.0
+std = 11.255783109921197
+fraction of rejected pixels = 0.0001850128173828125
+gain = 2.06
+read noise = 16.832754943246982 e-rms
+man read noise = 15.75 e-rms
+percent diff =  6.8746345602983
+Total Bias mean = 1013.5294130325318
+Total Bias std = 10.1260447421899
+std decr. fac = 0.10036959283050782
+1/sqrt(N) = 0.31622776601683794
+
+
+NOTES:
+4. Many more outlier pixels (hot pixels)
+   read noise increased by 6.9% of m10 
+

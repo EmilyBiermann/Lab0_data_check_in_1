@@ -1,0 +1,4 @@
+1. Made master flat
+2. Not seeing brighter/darker region, very small changes in count
+3. One dead pixel, measures 0 counts
+4. 
